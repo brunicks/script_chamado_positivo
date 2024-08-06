@@ -1,5 +1,7 @@
 Bem-vindo ao Abridor de Chamados Positivo!
 
+Obs: o instalador ja vem com o forms executavel e com o script imbutido, os arquivos aqui no git são apenas para visualização do codigo.
+
 Este arquivo README contém instruções para configurar e executar a aplicação corretamente.
 
     Configurar o Script Python
