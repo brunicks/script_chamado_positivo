@@ -27,7 +27,7 @@ Este arquivo README contém instruções para configurar e executar a aplicaçã
         Abra o Prompt de Comando (cmd).
         Digite o comando a seguir e pressione Enter:
         python --version
-        Se o Python estiver instalado corretamente, você verá a versão do Python. Se o comando não for reconhecido, você precisará instalar o Python e adicioná-lo ao PATH do sistema.
+        Se o Python estiver instalado corretamente, você verá a versão do Python. Se o comando não for reconhecido, você precisará instalar o Python e adicioná-lo a variavel de ambiente PATH do sistema.
 
     Depois de configurar o script e garantir que o Python está corretamente instalado e configurado:
         Abra o menu Iniciar e procure por "Abridor de Chamados Positivo".
